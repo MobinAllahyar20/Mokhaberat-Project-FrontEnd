@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Login Page Mokhaberat",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../Desktop/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Login Page Mokhaberat"
+	}
+}
